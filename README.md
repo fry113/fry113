@@ -1,5 +1,5 @@
 Im @fry113.
 Im continuing my learning of C++.
-Theres be some projects.
+There will be some projects.
 
 GL me! =3
